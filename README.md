@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayane MELZI</h1>
-<h3 align="center">A full stack web developer and a DevOps enthuiast</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayanmelzi" alt="rayanmelzi" /></a> </p>
+<h3 align="center">A Full-Stack Developer & DevOps Enthusiast</h3>
 
 - 🌱 I’m currently learning **Kubernetes using k3s on my homelab server to deploy my personal projects**
 
