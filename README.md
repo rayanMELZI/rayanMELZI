@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayane MELZI</h1>
-<h3 align="center">A Full-Stack Developer & DevOps Enthusiast</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=A+Full-Stack+Developer+;%26+DevOps+Enthusiast" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **Kubernetes using k3s on my homelab server to deploy my personal projects**
 
