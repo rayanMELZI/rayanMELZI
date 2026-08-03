@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kubernetes using k3s on my homelab server to deploy my personal projects**
 
-- 👨‍💻 All of my projects are available at [rayanemelzi.dev](rayanemelzi.dev)
+- 👨‍💻 All of my projects are available at [rayanemelzi.dev](https://www.rayanemelzi.dev/)
 
 - 📫 How to reach me **rayanmelzi@outlook.com**
 
